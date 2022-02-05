@@ -1,0 +1,146 @@
+/*------------------ 
+Frontend related CSS
+------------------*/
+
+ .gradient-text {
+	background-color: red;
+	background-image: -o-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+	background-image: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+	background-size: 100%;
+	background-repeat: repeat;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-background-clip: text;
+	-moz-text-fill-color: transparent;
+  }
+  .elementor *,
+  .elementor :after,
+  .elementor :before {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+  }
+
+
+.hide-sm-md {
+	display: none !important;
+  }
+  .hide-lg {
+	display: inline-block !important;
+  }
+
+/* scroll bar */
+
+::-moz-selection { 
+  color: var(--e-global-color-645556b);
+  background: var(--e-global-color-2241a44);
+  -webkit-text-fill-color:var(--e-global-color-645556b);
+}
+
+::selection {
+  color: var(--e-global-color-645556b);
+  background: var(--e-global-color-2241a44);
+  -webkit-text-fill-color:var(--e-global-color-645556b)
+}
+
+
+
+:root{
+/* 	scrollbar */
+	--aro-scrollbar-width :5px;
+	--aro-scrollbar-border-radius :10px;
+	--aro-scrollbar-track-background :white;
+	
+	--aro-scrollbar-thumb : black;
+	--aro-scrollbar-thumb-border-radius :10px;
+	
+	--aro-scrollbar-thumb-hover :black;
+	--aro-scrollbar-thumb-hover-border-radius :10px;
+	
+/* 	selection colors */
+	--aro-selection-color :white;
+	--aro-selection-background : blue;
+	
+}
+
+
+/* width */
+::-webkit-scrollbar {
+  width: var(--aro-scrollbar-width);
+  border-radius: var(--aro-scrollbar-border-radius);
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--aro-scrollbar-track-background);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--aro-scrollbar-thumb);
+  border-radius: var(--aro-scrollbar-thumb-border-radius);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--aro-scrollbar-thumb-hover);
+  border-radius: var(--aro-scrollbar-thumb-hover-border-radius); 
+}
+
+
+/* selection */
+
+::-moz-selection { 
+  color: var(--aro-selection-color);
+  background: var(--aro-selection-background);
+  -webkit-text-fill-color:var(--aro-selection-color);
+}
+
+::selection {
+  color: var(--aro-selection-color);
+  background: var(--aro-selection-background);
+  -webkit-text-fill-color:var(--aro-selection-color);
+}
+
+
+
+/* Removers */
+select:-moz-focusring {
+	color: transparent;
+	text-shadow: 0 0 0 #000;
+  }
+
+
+select {
+	/* styling */
+/* 	background-color: transparent !important;
+	border: thin solid transparent;
+	border-radius: 4px;
+	display: inline-block;
+	font-family: "Poppins";
+	font-weight: "700" !important;
+  
+	line-height: 1.5em;
+	padding: 0.5em 3.5em 0.5em 1em;
+   */
+	/* reset */
+  
+/* 	margin: 0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-appearance: none;
+	-moz-appearance: none; */
+  }
+
+textarea:focus, input:focus{
+    outline: none;
+}
+input:focus{
+    border: none;
+}
+element{outline:none;}
+
+ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

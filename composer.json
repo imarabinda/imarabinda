@@ -1,0 +1,19 @@
+{
+
+    "name": "imarabinda/imarabinda",
+    "type": "project",
+    "authors": [
+        {
+            "name": "imarabinda",
+            "email": "arabinda.gamerx@gmail.com"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.3"
+    }, 
+    "autoload": {
+        "classmap": [
+            "includes/"
+          ]
+    }
+}
