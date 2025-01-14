@@ -35,6 +35,8 @@ Hi 👋, My name is Arabinda
   <img width="1" />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui" title="materialui" />
   <img width="1" />
+  <img src="https://cdn.simpleicons.org/chakraui" height="40" alt="chakraui" title="chakraui" />
+  <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="git" />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket" title="bitbucket" />
@@ -69,7 +71,7 @@ Hi 👋, My name is Arabinda
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass" title="sass" />
   <img width="1" />
-  <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="sentry" title="sentry" />
+  <img src="https://cdn.simpleicons.org/sentry/6A5FC1" height="40" alt="sentry" title="sentry" />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="supabase" title="supabase" />
   <img width="1" />
@@ -88,27 +90,11 @@ Hi 👋, My name is Arabinda
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack" title="webpack" />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite" title="vite" />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/shadcnui/_/fff" height="40" alt="shadcnui" title="shadcnui" />
 </p>
 
 
-
-
-### Socials
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/imarabinda" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" /></a>
-  <img width="1" />
-  <a href="https://www.facebook.com/imarabinda" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-  <img width="1" />
-  <a href="http://www.instagram.com/imarabinda" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <img width="1" />
-  <a href="https://www.x.com/MeArabinda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
-  <img width="1" />
-  <a href="https://www.threads.net/@imarabinda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture></a>
-</p>
 
 
 
@@ -121,7 +107,36 @@ Hi 👋, My name is Arabinda
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imarabinda&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&langs_count=0&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Languages" alt="Languages" />
+
+
+
+### Socials
+
+<p align="left">
+   <a href="https://www.linkedin.com/in/imarabinda" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="linkedin" title="linkedin" /></a>
+  <img width="1" />
+  <a href="https://www.facebook.com/imarabinda" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="facebook" title="facebook" /></a>
+  <img width="1" />
+  <a href="http://www.instagram.com/imarabinda" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="instagram" title="instagram" /></a>
+  <img width="1" />
+  <a href="https://www.x.com/MeArabinda" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" alt="twitter" title="twitter" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="twitter" title="twitter" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="twitter" title="twitter" /> 
+    </picture> </a>
+  <img width="1" />
+  <a href="https://www.threads.net/@imarabinda" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" alt="threads" title="threads" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" alt="threads" title="threads" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="threads" title="threads" /> 
+    </picture></a>
+</p>
 
 
 
