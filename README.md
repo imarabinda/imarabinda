@@ -39,12 +39,6 @@
   <img src="https://cdn.simpleicons.org/chakraui" width="36" height="36" alt="Chakra UI" title="Chakra UI" /><img width="1" /></a>
 <a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/shadcnui/_/fff" width="36" height="36" alt="ShadCN UI" title="ShadCN UI" /><img width="1" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="Babel" title="Babel" /><img width="1" /></a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" /><img width="1" /></a>
-<a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" title="Storybook" /><img width="1" /></a>
 
 ## Backend Development
 
@@ -93,6 +87,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" title="npm" /><img width="1" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" /><img width="1" /></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" /><img width="1" /></a>
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" title="Storybook" /><img width="1" /></a>
 
 ## Design Tools
 
@@ -116,6 +114,8 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Languages" alt="Languages" />
+
+
 
 ### Socials
 
@@ -147,3 +147,20 @@
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/imarabinda"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/imarabinda/imarabinda/snake/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/imarabinda/imarabinda/snake/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
