@@ -180,8 +180,9 @@
     srcset="https://raw.githubusercontent.com/imarabinda/imarabinda/snake/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+        width="100%" 
   />
 </picture>
 </p>
