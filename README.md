@@ -189,9 +189,9 @@
 
   <a href="https://github.com/imarabinda" target="_blank" rel="noreferrer"> 
       <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=dark&bg_color=00000000&icon_color=fb8c00&title_color=fb8c00&text_color=fff&border_color=3d444db3" alt="Arabinda's GitHub stats" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default&icon_color=fb8c00&title_color=fb8c00" alt="Arabinda's GitHub stats" />
-        <img src="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default&icon_color=fb8c00&title_color=fb8c00" alt="Arabinda's GitHub stats" /> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default&bg_color=00000000&text_color=fff&border_color=3d444db3" alt="Arabinda's GitHub stats" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default" alt="Arabinda's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default" alt="Arabinda's GitHub stats" /> 
       </picture>
   </a>
   
