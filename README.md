@@ -188,7 +188,7 @@
 </p>
 
 
-<p align="left">
+<p align="center">
 
   <a href="https://github.com/imarabinda" target="_blank" rel="noreferrer"> 
       <picture> 
