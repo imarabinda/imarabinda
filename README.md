@@ -6,6 +6,14 @@
 - 🚀  I'm currently working on [zustand-x](http://github.com/udecode/zustand-x)
 
 
+
+<a href="https://github.com/imarabinda" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&layout=compact&theme=dark&bg_color=00000000&border_color=3d444db3" alt="Arabinda's GitHub streak stats" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&layout=compact&theme=default" alt="Arabinda's GitHub streak stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&layout=compact&theme=default" alt="Arabinda's GitHub streak stats" /> 
+      </picture></a>
+
 <p align="left">
   
   <a href="https://github.com/udecode/zustand-x" target="_blank" rel="noreferrer"> 
@@ -17,12 +25,6 @@
   </a>
 
   
-<a href="https://github.com/imarabinda" target="_blank" rel="noreferrer"> 
-      <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&layout=compact&theme=dark&bg_color=00000000&border_color=3d444db3" alt="Arabinda's GitHub streak stats" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&layout=compact&theme=default" alt="Arabinda's GitHub streak stats" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarabinda&layout=compact&theme=default" alt="Arabinda's GitHub streak stats" /> 
-      </picture></a>
   
 </p>
 
@@ -189,9 +191,9 @@
 
   <a href="https://github.com/imarabinda" target="_blank" rel="noreferrer"> 
       <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default&bg_color=00000000&text_color=fff&border_color=3d444db3" alt="Arabinda's GitHub stats" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default" alt="Arabinda's GitHub stats" />
-        <img src="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default" alt="Arabinda's GitHub stats" /> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=algolia&bg_color=00000000&text_color=fff&border_color=3d444db3" alt="Arabinda's GitHub stats" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default&bg_color=00000000&text_color=000" alt="Arabinda's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imarabinda&show_icons=true&theme=default&bg_color=00000000&text_color=000" alt="Arabinda's GitHub stats" /> 
       </picture>
   </a>
   
